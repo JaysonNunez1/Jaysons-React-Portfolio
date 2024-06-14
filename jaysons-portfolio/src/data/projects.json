@@ -1,0 +1,10 @@
+[
+    {
+      "title": "Active Eats",
+      "imageSrc": "projects/project1.png",
+      "description": "This is a project made to generate a workout and meal for users.",
+      "skills": ["Javascript", "Express", "Node"],
+      "demo": " https://jaysonnunez1.github.io/active-eats/",
+      "source": "https://github.com/JaysonNunez1/active-eats"
+    }
+]
